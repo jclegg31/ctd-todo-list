@@ -23,4 +23,15 @@ Step-by-step instructions to get the app running on a local machine:
    npm install
    ```
 
-### How to run the development server
+## How to run the development server
+
+Instructions on how to run the development server:
+
+1. Start the server:
+   ```bash
+   npm run dev
+   ```
+2. Open your browser and visit:
+   ```
+   http://localhost:5173
+   ```
